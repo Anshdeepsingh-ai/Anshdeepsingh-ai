@@ -7,7 +7,7 @@
 <a href="https://github.com/Anshdeepsingh-ai">
   <img src="https://img.shields.io/badge/GitHub-Anshdeepsingh--ai-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/">
   <img src="https://img.shields.io/badge/LinkedIn-Anshdeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -15,7 +15,7 @@
 <br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B8AFB&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Applications;Machine+Learning+%7C+Generative+AI+%7C+NLP;Python+Developer+%7C+Problem+Solver;Learning%2C+Building%2C+Improving."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B8AFB&center=true&vCenter=true&width=750&lines=Building+Practical+AI+Applications;Machine+Learning+%7C+Generative+AI+%7C+NLP;Python+Developer+%7C+Problem+Solver;Learning+%7C+Building+%7C+Improving"
   alt="Typing animation"
 />
 
