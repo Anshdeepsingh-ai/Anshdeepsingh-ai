@@ -134,9 +134,21 @@ The platform supports **PDF, DOCX, and TXT** documents and provides tools for un
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="48%" alt="GitHub statistics" />
+<a href="https://github.com/Anshdeepsingh-ai">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Anshdeepsingh-ai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
+    width="48%"
+    alt="Anshdeep Singh GitHub statistics"
+  />
+</a>
 
-<img src="./profile/languages.svg" width="48%" alt="Most used programming languages" />
+<a href="https://github.com/Anshdeepsingh-ai">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshdeepsingh-ai&layout=donut&langs_count=6&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="Anshdeep Singh most used languages"
+  />
+</a>
 
 </div>
 
