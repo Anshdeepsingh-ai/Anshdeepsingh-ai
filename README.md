@@ -209,3 +209,8 @@ Natural Language Processing
 Generative AI
         ↓
 AI Application Development
+
+Let's Connect
+<div align="center">
+Let's build, learn, and create something meaningful.
+<br/> <a href="https://github.com/Anshdeepsingh-ai"> <img src="https://img.shields.io/badge/GitHub-Anshdeepsingh--ai-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/"> <img src="https://img.shields.io/badge/LinkedIn-Anshdeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" /> </div>
