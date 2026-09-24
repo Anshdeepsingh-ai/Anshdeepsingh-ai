@@ -218,3 +218,40 @@ Natural Language Processing
 Generative AI
         ↓
 AI Application Development
+
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Open to learning, collaborating, and building impactful AI/ML solutions.
+
+<br/>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Anshdeepsingh-ai">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**AI/ML · Python · Machine Learning · Generative AI · NLP**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+</div>
