@@ -7,13 +7,17 @@
 <a href="https://github.com/Anshdeepsingh-ai">
   <img src="https://img.shields.io/badge/GitHub-Anshdeepsingh--ai-181717?style=for-the-badge&logo=github" />
 </a>
+
 <a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/">
   <img src="https://img.shields.io/badge/LinkedIn-Anshdeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B8AFB&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Applications;Machine+Learning+%7C+Generative+AI+%7C+NLP;Python+Developer+%7C+Problem+Solver;Learning%2C+Building%2C+Improving." alt="Typing animation" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B8AFB&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Applications;Machine+Learning+%7C+Generative+AI+%7C+NLP;Python+Developer+%7C+Problem+Solver;Learning%2C+Building%2C+Improving."
+  alt="Typing animation"
+/>
 
 </div>
 
@@ -23,7 +27,7 @@
 
 I'm a **Computer Science & Engineering student at Lovely Professional University** with a strong interest in **Artificial Intelligence and Machine Learning**.
 
-I enjoy turning ideas into practical applications using Python, machine learning, data processing, and Generative AI. My focus is on understanding the fundamentals while continuously building projects that solve real problems.
+I enjoy turning ideas into practical applications using Python, machine learning, data processing, and Generative AI. My focus is on understanding strong technical fundamentals while continuously building projects that solve practical problems.
 
 Currently, I'm strengthening my skills in **Machine Learning, Deep Learning, NLP, Generative AI, and AI application development**.
 
@@ -45,22 +49,22 @@ Currently, I'm strengthening my skills in **Machine Learning, Deep Learning, NLP
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 </p>
 
 ### AI / Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-302b63?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-302b63?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-302b63?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative%20AI-302b63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-302b63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-302b63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-302b63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-302b63?style=for-the-badge" />
 </p>
 
 ### Libraries & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,streamlit" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,streamlit" />
 </p>
 
 `NumPy` · `Pandas` · `KeyBERT` · `PyMuPDF` · `python-docx`
@@ -68,7 +72,7 @@ Currently, I'm strengthening my skills in **Machine Learning, Deep Learning, NLP
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
 ---
@@ -77,7 +81,7 @@ Currently, I'm strengthening my skills in **Machine Learning, Deep Learning, NLP
 
 ## AI Learning & Document Intelligence Platform
 
-> An AI-powered learning platform that transforms uploaded documents into interactive study material.
+> An AI-powered learning platform designed to transform uploaded documents into interactive study material.
 
 The platform supports **PDF, DOCX, and TXT** documents and provides tools for understanding and studying their contents.
 
@@ -106,7 +110,7 @@ The platform supports **PDF, DOCX, and TXT** documents and provides tools for un
 <div align="center">
 
 <a href="https://github.com/Anshdeepsingh-ai/AI-LEARNING-DOCUMENT-INTELLIGENCE-PLATFORM">
-<img src="https://img.shields.io/badge/View%20Project-302b63?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Project-302b63?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -131,6 +135,7 @@ The platform supports **PDF, DOCX, and TXT** documents and provides tools for un
 <div align="center">
 
 <img src="./profile/stats.svg" width="48%" alt="GitHub statistics" />
+
 <img src="./profile/languages.svg" width="48%" alt="Most used programming languages" />
 
 </div>
@@ -142,19 +147,23 @@ The platform supports **PDF, DOCX, and TXT** documents and provides tools for un
 <div align="center">
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/github-contribution-grid-snake.svg"
   />
+
   <img
     src="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/github-contribution-grid-snake.svg"
     width="100%"
     alt="GitHub contribution snake animation"
   />
+
 </picture>
 
 </div>
@@ -183,10 +192,10 @@ Focus areas:
 
 ### Certifications
 
-- Programming using C++
-- Intermediate English as a Second Language
-- Data Management — Excel & Tableau
-- Web Development
+- **Programming using C++**
+- **Intermediate English as a Second Language**
+- **Data Management — Excel & Tableau**
+- **Web Development**
 
 ---
 
@@ -209,8 +218,3 @@ Natural Language Processing
 Generative AI
         ↓
 AI Application Development
-
-Let's Connect
-<div align="center">
-Let's build, learn, and create something meaningful.
-<br/> <a href="https://github.com/Anshdeepsingh-ai"> <img src="https://img.shields.io/badge/GitHub-Anshdeepsingh--ai-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/"> <img src="https://img.shields.io/badge/LinkedIn-Anshdeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" /> </div>
