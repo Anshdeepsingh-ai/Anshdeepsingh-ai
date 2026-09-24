@@ -5,11 +5,11 @@
 <br/>
 
 <a href="https://github.com/Anshdeepsingh-ai">
-  <img src="https://img.shields.io/badge/GitHub-Anshdeepsingh--ai-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Anshdeepsingh--ai-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/">
-  <img src="https://img.shields.io/badge/LinkedIn-Anshdeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Anshdeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -27,7 +27,7 @@
 
 I'm a **Computer Science & Engineering student at Lovely Professional University** with a strong interest in **Artificial Intelligence and Machine Learning**.
 
-I enjoy turning ideas into practical applications using Python, machine learning, data processing, and Generative AI. My focus is on understanding strong technical fundamentals while continuously building projects that solve practical problems.
+I enjoy turning ideas into practical applications using Python, machine learning, data processing, and Generative AI. My focus is on building strong technical fundamentals while continuously developing projects that solve practical problems.
 
 Currently, I'm strengthening my skills in **Machine Learning, Deep Learning, NLP, Generative AI, and AI application development**.
 
@@ -218,40 +218,3 @@ Natural Language Processing
 Generative AI
         ↓
 AI Application Development
-
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### Open to learning, collaborating, and building impactful AI/ML solutions.
-
-<br/>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Anshdeepsingh-ai">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**AI/ML · Python · Machine Learning · Generative AI · NLP**
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
-
-</div>
