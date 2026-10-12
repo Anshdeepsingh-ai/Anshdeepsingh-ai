@@ -67,5 +67,6 @@ jobs:
             echo "No profile changes to commit."
           else
             git commit -m "chore: update profile statistics"
+            git pull --rebase origin main
             git push
           fi

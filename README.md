@@ -77,15 +77,15 @@ Currently, I'm strengthening my skills in **Machine Learning, Deep Learning, NLP
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## AI Learning & Document Intelligence Platform
+### AI Learning & Document Intelligence Platform
 
 > An AI-powered learning platform designed to transform uploaded documents into interactive study material.
 
 The platform supports **PDF, DOCX, and TXT** documents and provides tools for understanding, analyzing, and studying their contents.
 
-### Core Features
+#### Core Features
 
 * 📄 PDF / DOCX / TXT document processing
 * 📝 AI-powered document summarization
@@ -97,7 +97,7 @@ The platform supports **PDF, DOCX, and TXT** documents and provides tools for un
 * 💾 SQLite-based history management
 * 📤 Exportable learning content
 
-### Technology
+#### Technology
 
 `Python` · `Streamlit` · `Google Gemini API` · `SQLite`
 
@@ -117,19 +117,20 @@ The platform supports **PDF, DOCX, and TXT** documents and provides tools for un
 
 ---
 
-# 📌 Selected Projects
+## 📌 Selected Projects
 
-| Project                 | Description                                                             | Technologies      |
-| ----------------------- | ----------------------------------------------------------------------- | ----------------- |
-| **Sentiment Analysis**  | NLP-based sentiment analysis application                                | Python · NLP · ML |
-| **Pet Product Advisor** | Application for intelligent pet-product recommendations                 | Python · AI/ML    |
-| **Plastic Footprints**  | Application focused on plastic-footprint analysis                       | Python            |
-| **Book Store**          | Python-based application demonstrating application development concepts | Python            |
-| **Python Projects**     | Collection of Python programming projects and experiments               | Python            |
-| **Snake Water Gun**     | Command-line implementation of the classic game                         | Python            |
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [**Sentiment Analysis**](https://github.com/Anshdeepsingh-ai/Sentiment-analysis) | NLP-based sentiment analysis application | Python · NLP · ML |
+| [**Pet Product Advisor**](https://github.com/Anshdeepsingh-ai/pet-product-advisor-) | Application for intelligent pet-product recommendations | Python · AI/ML |
+| [**Plastic Footprints**](https://github.com/Anshdeepsingh-ai/Plastic-Footprints) | Application focused on plastic-footprint analysis | Python |
+| [**Book Store**](https://github.com/Anshdeepsingh-ai/Book-Store) | Python-based application demonstrating application development concepts | Python |
+| [**Python Projects**](https://github.com/Anshdeepsingh-ai/pythoncode) | Collection of Python programming projects and experiments | Python |
+| [**Snake Water Gun**](https://github.com/Anshdeepsingh-ai/snake-water-gun-game) | Command-line implementation of the classic game | Python |
 
 ---
-# 📊 GitHub Statistics
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -149,7 +150,7 @@ The platform supports **PDF, DOCX, and TXT** documents and provides tools for un
 
 ---
 
-# 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -177,22 +178,7 @@ The platform supports **PDF, DOCX, and TXT** documents and provides tools for un
 
 ---
 
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Anshdeepsingh-ai&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="Anshdeep Singh contribution activity"
-/>
-
-</div>
-
----
-
-# 🎓 Education
+## 🎓 Education
 
 ### Bachelor of Technology — Computer Science & Engineering
 
@@ -202,7 +188,7 @@ The platform supports **PDF, DOCX, and TXT** documents and provides tools for un
 
 ---
 
-# 📚 Training & Certifications
+## 📚 Training & Certifications
 
 ### Industry Training
 
@@ -221,14 +207,14 @@ Focus areas:
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 * Participated in community initiatives through **Rehras Sewa Society** and collaborated with multiple NGOs.
 * Received an **Award of Honor** for contribution toward a blood-awareness initiative involving the collection of **60 units of blood**.
 
 ---
 
-# 📖 Currently Learning
+## 📖 Currently Learning
 
 ```text
 Machine Learning
@@ -244,7 +230,7 @@ AI Application Development
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
 <div align="center">
 
